@@ -1,3 +1,8 @@
+Practicing setting up a React application and building a full CRUD application using MongoDB, Express, React, and NodeJS. 
+Full MERN stack application.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
